@@ -1,0 +1,8 @@
+name: oPvPHelper
+version: '${project.version}'
+main: io.github.onebytegh.opvphelper.OPvPHelper
+api-version: 1.8
+authors: [ OneByte ]
+description: A plugin that helps you train every aspect of Minecraft 1.8 PvP
+website: github.com/OneByteGH
+depend: [Citizens]
